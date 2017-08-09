@@ -1,0 +1,8 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "an interactive chat application",
+  "main": "server.js",
+  "author": "Åsa Liljegren <asa.lilje@gmail.com>",
+  "license": "MIT"
+}

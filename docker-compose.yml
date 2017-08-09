@@ -1,0 +1,6 @@
+chat:
+  build: .
+  command: node test.js
+  volumes:
+    - .:/home/app/chat
+
